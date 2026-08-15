@@ -1,0 +1,11 @@
+{
+  "pdf_file": "sample_cv_gold.pdf",
+  "total_pages": 1,
+  "total_text_boxes": 41,
+  "output_dir": "ocr_output",
+  "files_generated": [
+    "page_{n}_annotated.png  \u2190 halaman + bounding box",
+    "page_{n}_clean.png      \u2190 halaman asli",
+    "ocr_result.txt            \u2190 semua teks yang dibaca"
+  ]
+}

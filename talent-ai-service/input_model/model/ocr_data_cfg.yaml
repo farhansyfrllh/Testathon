@@ -1,0 +1,7 @@
+det_test: det/test.txt
+det_train: det/train.txt
+det_val: det/val.txt
+path: train_data
+rec_test: rec/test.txt
+rec_train: rec/train.txt
+rec_val: rec/val.txt

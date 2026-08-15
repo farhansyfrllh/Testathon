@@ -1,0 +1,42 @@
+=== PAGE 1 ===
+DIANAKUSUMAWARDANI
+diana.kusuma@email.com|+659123-4567|Singapore/Batam
+EXECUTIVESUMMARY
+Senior Cloud &Data Center Architect dengan 8 tahun pengalaman internasional.
+Expert dalam Cloud Computing(AWS/Azure/GCP),Virtualization,Cybersecurity,
+Data Center Operations,Power Systems, Cooling Systems,Al/ML infrastructure,
+Networking,LinuxAdministration,Docker,Kubernetes,danDCIM.
+EDUCATION
+S1TeknikInformatika·InstitutTeknologiBandung(2010.2014)
+PROFESSIONALEXPERIENCE
+Senior Cloud Architect·Keppel Dc Singapore(2020-sekarang)
+-Merancang arsitektur cloud hybrid multi-cloud(AWS,Azure,GCP) untuk 30+klien enterprise.
+- Data Center Operations: oversight operasional 3 DC Tier Il+ dengan total kapasitas 80MW.
+-Power Systems: desain sistem 2N redundant UPS dan genset untuk DC baru Keppel.
+-AI/ML Infrastructure:deployGPU cluster(NVIDIA DGX A10o)untukklien AI di Singapore.
+-Cybersecurity: Zero Trust Architecture, SOC2 Type Il,ISO 27001 compliance.
+-Networking: merancang spine-leaf fabric 400GbE dengan BGP EVPN/VXLAN.
+-Linux Administration: automation infrastruktur dengan Ansible, Terraform, Python.
+-Virtualization:VMwarevSphere 8,NutanixHCl, OpenStack private cloud.
+Infrastructure Lead·ST Telemedia Singapore (2016-2020)
+- Cloud Computing: migrasi workload on-premise ke AWS dan Azure (lift & shift + re-arch).
+Implementasi DCiM(DataCenterInfrastructureManagement)SchneiderEcoStruxure
+KEYSKILLS
+Virtualization:VMwarevSphere,Nutanix,KVM,Kubernetes,Docker,OpenStack.
+Data Center Operations: Tier Il/IV design, DCIM, capacity planning,TIA-942.
+Power Systems: 2N/N+1 UPS, ATS, genset, power chain optimization, PUE < 1.3.
+Cooling Systems: chilled water,liquid cooling, free cooling, CRAC/CRAH.
+Cybersecurity:ZeroTrust,SIEM,SOC,ISO27001,PCI-DSS,penetration testing.
+Networking:400GbEDCfabric,BGPEVPN,VXLAN,SD-WAN,networkautomation.
+LinuxAdministration:RHEL,Ubuntu,Python automation,Ansible,Terraform.
+SQL Server: database administration, high availability,Always On AG.
+Docker: container platform, registry, security scanning.
+Kubernetes: K8s cluster management, Helm, service mesh Istio.
+CERTIFICATIONS
+AWSCertifiedSolutionsArchitectProfessional
+Azure Solutions Architect Expert
+VMwareVCDX(DataCenterVirtualization)
+CISSP(CertifiedInformationSystemsSecurityProfessional)
+Uptime InstituteAOS(Accredited OperationsSpecialist)
+LANGUAGES
+Bahasa Indonesia (Native),English (Native/Bilingual),Mandarin (Conversational)

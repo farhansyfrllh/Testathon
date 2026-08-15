@@ -1,0 +1,9 @@
+{
+  "kpi_list": [
+    {
+      "name": "loss",
+      "description": "no training, loss==0",
+      "value": 0.0
+    }
+  ]
+}

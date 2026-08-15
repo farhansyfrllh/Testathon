@@ -1,0 +1,14 @@
+{
+  "cpu_cores": 4,
+  "memory": 15.3,
+  "gpu": 15360.0,
+  "cpu_used_ratio": [
+    0.8
+  ],
+  "memory_used_ratio": [
+    5.8
+  ],
+  "gpu_used_ratio": [
+    1.7
+  ]
+}

@@ -1,0 +1,7 @@
+class_names: []
+filter_small: false
+label_map: {}
+save_path: train_data
+test: input_val
+train: input_train
+val: input_test
