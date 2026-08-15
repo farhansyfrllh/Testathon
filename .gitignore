@@ -1,0 +1,29 @@
+# .NET
+bin/
+obj/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / secrets
+.env
+*.env
+!*.env.example
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Uploads (keep folder placeholders)
+talent-bridge-api/uploads/*
+!talent-bridge-api/uploads/.gitkeep
+talent-ai-service/uploads/*
+!talent-ai-service/uploads/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
