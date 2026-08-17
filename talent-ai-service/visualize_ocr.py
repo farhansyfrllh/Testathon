@@ -25,7 +25,7 @@ from rapidocr_onnxruntime import RapidOCR
 # ── Config ──────────────────────────────────────────────────────
 PDF_PATH    = sys.argv[1] if len(sys.argv) > 1 else "sample_cv_gold.pdf"
 OUTPUT_DIR  = "ocr_output"
-MODEL_DIR   = os.path.abspath(os.path.join("input_model", "model", "weights"))
+MODEL_DIR   = os.path.abspath(os.path.join("talent-ai-service", "input_model", "model", "weights"))
 RENDER_ZOOM = 2.0   # 2× resolusi agar teks lebih jelas dibaca model
 BOX_COLOR   = (0, 200, 100)   # hijau neon untuk bounding box
 TEXT_COLOR  = (255, 80, 80)   # merah untuk label confidence
